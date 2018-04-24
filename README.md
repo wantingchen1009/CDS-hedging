@@ -1,0 +1,2 @@
+# CDS-hedging
+Modelled multivariate Gumbel-Marshall-Olkin distribution of default times with exponential marginals and unobservable components with exponential occurrence times and Archimedean dependence given by the Gumbel copula; Derived static hedge, mark-to-market hedge and EWMA hedge of CDS derivatives written on the simultaneous default of a basket of obligors; estimated and validated the model on CDS market data with an application to 20 European banks representative of 5 countries.
